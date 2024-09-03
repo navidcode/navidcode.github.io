@@ -21,3 +21,11 @@ p {
     text-align: center;
     padding-top: 30px;
 }
+
+h1:hover {
+    color: tomato;
+}
+
+p:hover {
+    color: cornflowerblue;
+}
