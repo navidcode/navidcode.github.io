@@ -29,3 +29,7 @@ h1:hover {
 p:hover {
     color: cornflowerblue;
 }
+
+#button:hover {
+    cursor: pointer;
+}
